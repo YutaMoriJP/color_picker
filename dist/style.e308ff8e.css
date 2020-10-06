@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+button {
+    padding: 20px;
+    font-size: 2em;
+}
+
+.light {
+    background-color: white;
+    border: 1px solid white;
+    color: black;
+    cursor: pointer;
+}
+
+.dark {
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    cursor: pointer;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
